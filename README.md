@@ -16,6 +16,7 @@ Although the task suggested using front-end frameworks like Bulma, UIKit, Bootst
 **Demo**
 
 **Screenshots**
+(https://github.com/anshika1510/Level-2-Task-1/blob/main/Screenshot%202025-04-27%20125932.png)
 
 
 **Technologies Used**
